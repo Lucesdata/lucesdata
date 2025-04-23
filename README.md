@@ -7,7 +7,7 @@ DataScientist
 PYTHON DEVELOPER, Ing Químico, Monitoreo y Automatización de Plantas de Tratamiento de Agua.
 
 *   🌍  I'm based in Colombia
-*   🖥️  See my portfolio at [Estoy en eso](http://plataforma_rural.com)
+*   🖥️  See my portfolio at https://ptap-rural.netlify.app/
 *   ✉️  You can contact me at [luces.data@gmail.com](mailto:luces.data@gmail.com)
 *   🧠  I'm learning python### Skills 
 <p align="left">
